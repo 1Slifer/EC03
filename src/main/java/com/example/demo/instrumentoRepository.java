@@ -1,4 +1,4 @@
-package com.example.ecv3Elguera;
+package com.example.demo;
 
 
 import org.springframework.data.repository.CrudRepository;

@@ -1,5 +1,5 @@
-com/example/ecv3Elguera/categoriaRepository.class
-com/example/ecv3Elguera/Categoria.class
+com/example/demo/categoriaRepository.class
 com/example/demo/DemoApplication.class
-com/example/ecv3Elguera/Instrumento.class
-com/example/ecv3Elguera/instrumentoRepository.class
+com/example/demo/Categoria.class
+com/example/demo/Instrumento.class
+com/example/demo/instrumentoRepository.class
